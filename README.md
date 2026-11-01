@@ -38,4 +38,4 @@ A growing collection of Python solutions covering searching, trees, graphs, dyna
 
 I'm interested in internships and student collaborations where I can contribute to AI and robotics projects while strengthening my engineering fundamentals.
 
-[LinkedIn](https://www.linkedin.com/in/abhi1228-dam
+[LinkedIn](https://www.linkedin.com/in/abhi1228-dam/)
